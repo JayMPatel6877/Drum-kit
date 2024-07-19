@@ -1,0 +1,29 @@
+body{
+    background-color: #283149;
+    text-align: center;
+}
+
+.title{
+    font-family: "Arvo", serif;
+    font-size: 5rem;
+    color: aliceblue;
+    text-shadow: 3px 0 red;
+}
+
+.drumKey{
+    display: block;
+}
+
+.key{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 10px solid #404B69;
+    border-radius: 15px;
+    font-family: "Arvo";
+    font-size: 5rem;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    font-weight: 600;
+    line-height: 2;
+}
